@@ -103,4 +103,7 @@ class Cat(Animal):
 # golf.__prava()
 
 
+print("Hello world")
 
+class Hello:
+    pass
